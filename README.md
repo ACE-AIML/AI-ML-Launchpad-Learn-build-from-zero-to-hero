@@ -32,7 +32,7 @@ Welcome to **AI/ML Launchpad**, a beginner-friendly, all-in-one resource hub for
 | Module | Title | Description |
 |--------|-------|-------------|
 |  [Module 0](./Module-0-Before-You-Start/README.md) | **Before You Start** | Setup tools & mindset for learning |
-|  [Module 1](./Module-1-Mathematics-for-AI/README.md) | **Mathematics for AI** | Math foundations: Linear Algebra, Stats, Calculus |
+|  [Module 1](./Module-1-The-Math-Behind-It-All/README.md) | **Mathematics for AI** | Math foundations: Linear Algebra, Stats, Calculus |
 |  [Module 2](./Module-2-Python-Programming/README.md) | **Python Programming** | Learn Python & libraries like NumPy, Pandas |
 |  [Module 3](./Module-3-Data-Science/README.md) | **Data Science Basics** | EDA, data wrangling, visualizations |
 |  [Module 4](./Module-4-Machine-Learning/README.md) | **Machine Learning** | Supervised & unsupervised ML techniques |
