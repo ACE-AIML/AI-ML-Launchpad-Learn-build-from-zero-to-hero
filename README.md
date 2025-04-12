@@ -38,7 +38,7 @@ Welcome to **AI/ML Launchpad**, a beginner-friendly, all-in-one resource hub for
 |  [Module 4](./Module-4-Machine-Learning/README.md) | **Machine Learning** | Supervised & unsupervised ML techniques |
 |  [Module 5](./Module-5-Advanced-Deep-Learning/README.md) | **Deep Learning** | Neural networks, backprop, activation functions |
 |  [Module 6](./Module-6-Advanced-Computer-Vision/README.md) | **Computer Vision** | Image processing & CNNs |
-|  [Module 7](./Module-7-NLP/README.md) | **Natural Language Processing** | Text-based AI, transformers |
+|  [Module 7](./Module-7-Advanced-NLP/README.md) | **Natural Language Processing** | Text-based AI, transformers |
 |  [Module 8](./Module-8-Reinforcement-Learning/README.md) | **Reinforcement Learning** | Agents, rewards, environments |
 |  [Module 9](./Module-9-Generative-AI/README.md) | **Generative AI** | GANs, diffusion models, LLMs |
 |  [Module 10](./Module-10-Agentic-AI/README.md) | **Agentic AI** | Tool-using agents, autonomous workflows |
