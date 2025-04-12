@@ -1,4 +1,4 @@
-# 🏗 Module 2 – Building Your Foundation
+# Module 2 – Building Your Foundation
 
 Now that you've started exploring the world of AI/ML, it's time to lay a strong foundation in **Python programming** and **basic computer science**. Python is the go-to language for AI/ML — simple, readable, and powerful.
 
