@@ -1,4 +1,4 @@
-#  Module 9 – Reinforcement Learning
+#  Module 8 – Reinforcement Learning
 
 Walk, fall, get up, learn, repeat. Just like humans learn from their experiences, AI does the same! In this module, we’ll explore how reinforcement learning empowers machines to learn from their actions, just like we do in the real world.
 
