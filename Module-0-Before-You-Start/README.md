@@ -11,7 +11,7 @@ A solid grasp of **Python programming** and **applied mathematics** (especially 
 
 ---
 
-## 🧰 Setup Checklist
+##  Setup Checklist
 
 Here's everything you need to get started:
 
@@ -20,11 +20,11 @@ Here's everything you need to get started:
 | 1️⃣   | Software    | **Python 3.13** – Programming language we'll use                | [Download Python](https://www.python.org/downloads/) |
 | 2️⃣   | Software    | **Visual Studio Code** – Lightweight and flexible code editor   | [Download VS Code](https://code.visualstudio.com/download) |
 | 3️⃣   | Py Package  | **Pip Installer** – Tool to install Python packages             | [Install Pip on Windows](https://www.geeksforgeeks.org/how-to-install-pip-on-windows/) |
-| 4️⃣   | Py Packages | **Essential AI/ML Libraries** – NumPy, Pandas, Scikit-learn, etc.| [Install Libraries Guide](https://realpython.com/python-data-science/) |
+| 4️⃣   | Py Packages | **Essential AI/ML Libraries** – NumPy, Pandas, Scikit-learn, etc.| [Install Libraries Guide]([https://realpython.com/python-data-science/](https://github.com/aadi1011/AI-ML-Roadmap-from-scratch/blob/main/Packages.md)) |
 
 ---
 
-## 📌 Tip
+##  Tip
 
 Once everything is installed, try running this in your terminal to verify your setup:
 
