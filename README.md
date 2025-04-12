@@ -15,13 +15,13 @@ Welcome to **AI/ML Launchpad**, a beginner-friendly, all-in-one resource hub for
 
 ##  What You'll Find Here
 
-- ✅ Curated Learning Paths (Theory + Hands-on)
-- ✅ Beginner-friendly ML/DL projects
-- ✅ Notes, Slides, & Workshop Material
-- ✅ Python, Jupyter Notebooks, and Code Snippets
-- ✅ Datasets for practice
-- ✅ Recommended books, courses & YouTube playlists
-- ✅ Roadmap to go from Beginner ➡️ Intermediate ➡️ Advanced
+- ✔️ Curated Learning Paths (Theory + Hands-on)
+- ✔️ Beginner-friendly ML/DL projects
+- ✔️ Notes, Slides, & Workshop Material
+- ✔️ Python, Jupyter Notebooks, and Code Snippets
+- ✔️ Datasets for practice
+- ✔️ Recommended books, courses & YouTube playlists
+- ✔️ Roadmap to go from Beginner ➡️ Intermediate ➡️ Advanced
 
 ---
 
