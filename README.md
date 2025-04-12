@@ -36,7 +36,7 @@ Welcome to **AI/ML Launchpad**, a beginner-friendly, all-in-one resource hub for
 |  [Module 2](./Module-2-Building-Your-Foundation/README.md) | **Python Programming** | Learn Python & libraries like NumPy, Pandas |
 |  [Module 3](./Module-3-Data-Science/README.md) | **Data Science Basics** | EDA, data wrangling, visualizations |
 |  [Module 4](./Module-4-Machine-Learning/README.md) | **Machine Learning** | Supervised & unsupervised ML techniques |
-|  [Module 5](./Module-6-Advanced-Deep-Learning/README.md) | **Deep Learning** | Neural networks, backprop, activation functions |
+|  [Module 5](./Module-5-Advanced-Deep-Learning/README.md) | **Deep Learning** | Neural networks, backprop, activation functions |
 |  [Module 6](./Module-6-Computer-Vision/README.md) | **Computer Vision** | Image processing & CNNs |
 |  [Module 7](./Module-7-NLP/README.md) | **Natural Language Processing** | Text-based AI, transformers |
 |  [Module 8](./Module-8-Reinforcement-Learning/README.md) | **Reinforcement Learning** | Agents, rewards, environments |
