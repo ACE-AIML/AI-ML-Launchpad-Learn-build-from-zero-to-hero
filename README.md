@@ -6,7 +6,7 @@ Welcome to **AI/ML Launchpad**, a beginner-friendly, all-in-one resource hub for
 
 ##  Who is this for?
 
--  **whoever eager to learn ML**
+-  **Anyone who is eager to learn ML**
 -  Beginners with little or no coding experience
 -  Curious minds eager to explore AI/ML
 -  Anyone who wants a solid foundation in machine learning and artificial intelligence
